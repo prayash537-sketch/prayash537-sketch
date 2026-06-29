@@ -1,14 +1,11 @@
 <h1 align="center">Hi, I'm Prayash Adhikari</h1>
-<h3 align="center">Web Developer
-PYTHON | DSA Enthusiast</h3>
+<h3 align="center">Web Developer | DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Development+Enthusiast;Building+Responsive+Web+Applications;Learning+Data+Structures+%26+Algorithms&font=Fira+Code&center=true&color=00F7FF&width=600&height=50"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-</p>
+---
 
 ## About Me
 - Bsc CSIT at TRIBHUVAN UNIVERSITY
@@ -18,6 +15,7 @@ PYTHON | DSA Enthusiast</h3>
 - Instagram: @prayash_adh
 
 ## Tech Stack
+<!-- Use devicons from jsdelivr.net -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 ## Featured Projects
@@ -32,17 +30,18 @@ PYTHON | DSA Enthusiast</h3>
 - Utilized browser developer tools for advanced debugging and state inspection
 
 ## GitHub Stats
-## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prayash422&show_icons=true&theme=tokyonight"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayash422&theme=tokyonight"/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prayash422&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prayash537_sketch&show_icons=true&theme=tokyonight"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayash537_sketch&theme=tokyonight"/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prayash537_sketch&layout=compact&theme=tokyonight"/>
 </p>
 
 ## GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=prayash422&theme=onestar&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prayash537_sketch&theme=onestar&no-frame=true"/>
 </p>
+
+---
 
 ## Certifications
 - 10+2 Higher Secondary Certification — National Examinations Board
@@ -53,6 +52,6 @@ PYTHON | DSA Enthusiast</h3>
 - Established efficient repository management structures across collaborative GitHub environments
 
 ## Connect with Me
-GitHub: [github.com/prayash422](https://github.com/prayash422)  
+GitHub: [github.com/prayash537_sketch](https://github.com/prayash537_sketch)  
 LinkedIn: [linkedin.com/in/Prayash Adhikari](https://linkedin.com/in/Prayash Adhikari)  
 Email: prayashadhikari422@gmail.com
