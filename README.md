@@ -29,9 +29,9 @@
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prayash537-sketch&show_icons=true&theme=tokyonight"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayash537-sketch&theme=tokyonight"/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prayash537-sketch&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PRAYASH010&show_icons=true&theme=tokyonight"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAYASH010&theme=tokyonight"/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRAYASH010&layout=compact&theme=tokyonight"/>
 </p>
 
 ## Certifications
