@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Prayash Adhikari</h1>
-<h3 align="center">Web Developer
-Bsc.Csit ongoing | DSA Enthusiast</h3>
+<h3 align="center">Web Developer| DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Development+Enthusiast;Building+Responsive+Web+Applications;Learning+Data+Structures+%26+Algorithms&font=Fira+Code&center=true&color=00F7FF&width=600&height=50"/>
@@ -9,7 +8,7 @@ Bsc.Csit ongoing | DSA Enthusiast</h3>
 ---
 
 ## About Me
-- B.Tech CSE at Bsc.Csit ongoing
+- Bsc CSIT at TRIBHUVAN UNIVERSITY
 - Learning DSA & Full Stack Dev
 - Passionate about web projects
 - Placement prep journey ongoing
