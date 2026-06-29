@@ -32,19 +32,16 @@ PYTHON | DSA Enthusiast</h3>
 - Utilized browser developer tools for advanced debugging and state inspection
 
 ## GitHub Stats
+## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prayash422&show_icons=true&theme=tokyonight"/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prayash422&show_icons=true&theme=tokyonight"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayash422&theme=tokyonight"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayash422&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prayash422&layout=compact&theme=tokyonight"/>
 </p>
 
 ## GitHub Trophies
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=prayash422&theme=onestar&no-frame=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
 </p>
 
 ## Certifications
