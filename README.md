@@ -34,13 +34,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prayash537-sketch&layout=compact&theme=tokyonight"/>
 </p>
 
-## GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=prayash537-sketch&theme=onestar&no-frame=true"/>
-</p>
-
----
-
 ## Certifications
 - 10+2 Higher Secondary Certification — National Examinations Board
 - Linux Environment Configuration & Administration — Self-Taught
