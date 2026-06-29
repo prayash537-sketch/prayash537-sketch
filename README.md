@@ -51,6 +51,17 @@
 - Established efficient repository management structures across collaborative GitHub environments
 
 ## Connect with Me
-GitHub: [github.com/prayash537-sketch](https://github.com/prayash537-sketch)  
-LinkedIn: [linkedin.com/in/Prayash Adhikari](https://linkedin.com/in/Prayash Adhikari)  
-Email: prayashadhikari422@gmail.com
+<p align="left">
+  <a href="https://github.com/prayash537-sketch" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/Prayash Adhikari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:prayashadhikari422@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/prayash_adh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
