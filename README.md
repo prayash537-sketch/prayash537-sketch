@@ -1,28 +1,61 @@
-# PRAYASH
-# 💫 About Me:
-I 'm currently studying B.Sc. CSIT in Nepal.
+<h1 align="center">Hi, I'm Prayash Adhikari</h1>
+<h3 align="center">Web Developer
+PYTHON | DSA Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Development+Enthusiast;Building+Responsive+Web+Applications;Learning+Data+Structures+%26+Algorithms&font=Fira+Code&center=true&color=00F7FF&width=600&height=50"/>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prayash Adhikari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prayash_adh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PR4Y4SH) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prayashadhikari422@gmail.com) 
+<p align="center">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prayash537-sketch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=prayash537-sketch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prayash537-sketch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About Me
+- Bsc CSIT at TRIBHUVAN UNIVERSITY
+- Learning DSA & Full Stack Dev
+- Passionate about web projects
+- Placement prep journey ongoing
+- Instagram: @prayash_adh
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prayash537-sketch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Featured Projects
+### JavaScript Calculator Project
+- Tech: HTML, CSS, JavaScript
+- Implemented core mathematical logic and interactive UI
+- Managed version control and cross-account repository forking on GitHub
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prayash537-sketch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Local Storage Web Application
+- Tech: JavaScript, HTML5 Local Storage
+- Implemented client-side data persistence for seamless user experiences
+- Utilized browser developer tools for advanced debugging and state inspection
 
----
-[![](https://komarev.com/ghpvc/?username=prayash537-sketch&icon=0&color=0)](https://visitcount.itsvg.in)
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prayash422&show_icons=true&theme=tokyonight"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayash422&theme=tokyonight"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayash422&layout=compact&theme=tokyonight"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=prayash422&theme=onestar&no-frame=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+</p>
+
+## Certifications
+- 10+2 Higher Secondary Certification — National Examinations Board
+- Linux Environment Configuration & Administration — Self-Taught
+
+## Achievements
+- Successfully deployed and configured multi-environment virtualized Linux systems using VirtualBox
+- Established efficient repository management structures across collaborative GitHub environments
+
+## Connect with Me
+GitHub: [github.com/prayash422](https://github.com/prayash422)  
+LinkedIn: [linkedin.com/in/Prayash Adhikari](https://linkedin.com/in/Prayash Adhikari)  
+Email: prayashadhikari422@gmail.com
